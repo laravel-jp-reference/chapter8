@@ -1,5 +1,7 @@
 # Laravelリファレンス 8章 Laravelの実践
 
+[![StyleCI](https://styleci.io/repos/48643492/shield)](https://styleci.io/repos/48643492)
+
 [![GitHub license](https://img.shields.io/github/license/laravel-jp-reference/chapter8.svg?style=flat-square)](https://github.com/laravel-jp-reference/chapter8/blob/master/LICENSE)
 [![GitHub license](https://img.shields.io/badge/laravel--jp--reference-chapter8-orange.svg?style=flat-square)](https://github.com/laravel-jp-reference/chapter8)
 
