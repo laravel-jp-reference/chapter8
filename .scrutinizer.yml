@@ -1,0 +1,19 @@
+filter:
+    paths:
+        - app/
+    excluded_paths:
+        - tests/*
+        - spec/*
+tools:
+    external_code_coverage:
+        timeout: 600
+        runs: 3
+    php_code_sniffer:
+        config:
+            standard: "PSR2"
+    php_cs_fixer:
+        config: { level: psr2 }
+checks:
+    php:
+        code_rating: true
+        duplication: true

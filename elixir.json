@@ -1,0 +1,5 @@
+{
+  "production": true,
+  "base_url": "http://homestead.app",
+  "bladePath": "resources/views"
+}
