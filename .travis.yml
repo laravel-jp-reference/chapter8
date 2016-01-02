@@ -13,7 +13,4 @@ script:
     - chmod -R 777 tests/build
     - ./vendor/bin/phpunit
 after_script:
-    - php vendor/bin/coveralls -v
-    - wget https://scrutinizer-ci.com/ocular.phar
-    - if [[ ${TRAVIS_PHP_VERSION:0:3} == "5.6" ]]; then php ocular.phar code-coverage:upload --format=php-clover tests/build/clover.xml; fi
     - if [[ ${TRAVIS_PHP_VERSION:0:3} == "5.6" ]]; then php vendor/bin/coveralls -v; fi
