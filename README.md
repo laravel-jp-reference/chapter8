@@ -1,7 +1,12 @@
 # Laravelリファレンス 8章 Laravelの実践
 
+[![Build Status](http://img.shields.io/travis/laravel-jp-reference/chapter8/master.svg?style=flat-square)](https://travis-ci.org/laravel-jp-reference/chapter8)
 [![StyleCI](https://styleci.io/repos/48643492/shield)](https://styleci.io/repos/48643492)
+[![Code Coverage](https://img.shields.io/scrutinizer/coverage/g/laravel-jp-reference/chapter8/master.svg?style=flat-square)](https://scrutinizer-ci.com/g/laravel-jp-reference/chapter8/?branch=master)
+[![Scrutinizer Code Quality](https://img.shields.io/scrutinizer/g/laravel-jp-reference/chapter8/master.svg?style=flat-square)](https://scrutinizer-ci.com/g/laravel-jp-reference/chapter8/?branch=master)
+[![SensioLabs Insight](https://img.shields.io/sensiolabs/i/cc9e553f-b833-4fb5-b2cf-89ec344a86e9.svg?style=flat-square)](https://insight.sensiolabs.com/projects/cc9e553f-b833-4fb5-b2cf-89ec344a86e9)
 
+[![Dependency Status](https://www.versioneye.com/user/projects/56868b4ceb4f470030000786/badge.svg?style=flat)](https://www.versioneye.com/user/projects/56868b4ceb4f470030000786)
 [![GitHub license](https://img.shields.io/github/license/laravel-jp-reference/chapter8.svg?style=flat-square)](https://github.com/laravel-jp-reference/chapter8/blob/master/LICENSE)
 [![GitHub license](https://img.shields.io/badge/laravel--jp--reference-chapter8-orange.svg?style=flat-square)](https://github.com/laravel-jp-reference/chapter8)
 
@@ -9,7 +14,7 @@
 
 ## このリポジトリについて
 このリポジトリはImpress社から発行されている、  
-[「Laravelリファレンス」](http://book.impress.co.jp/books/1114101107)の「8章 Laravelの実践(P.371)」で扱っているテストコードが記述されています。
+[「Laravelリファレンス」](http://book.impress.co.jp/books/1114101107)の「8章 Laravelの実践(P.371)」で利用しているサンプルアプリケーションです。
 
 ## アプリケーションの動作準備
 Vagrantが必要です。その他Homesteadを利用しています
