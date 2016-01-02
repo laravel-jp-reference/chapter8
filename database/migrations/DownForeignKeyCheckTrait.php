@@ -21,7 +21,7 @@ trait DownForeignKeyCheckTrait
      */
     protected function disableForeignKeyCheck()
     {
-        switch(\DB::getDriverName()) {
+        switch (\DB::getDriverName()) {
             case "sqlite":
                 return \DB::statement('PRAGMA foreign_keys = OFF');
                 break;
@@ -39,7 +39,7 @@ trait DownForeignKeyCheckTrait
      */
     protected function enableForeignKeyCheck()
     {
-        switch(\DB::getDriverName()) {
+        switch (\DB::getDriverName()) {
             case "sqlite":
                 return \DB::statement('PRAGMA foreign_keys = ON');
                 break;
