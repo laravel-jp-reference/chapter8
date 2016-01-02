@@ -1,0 +1,5 @@
+global_exclude_dirs:
+    - vendor
+    - tests
+    - public
+    - database

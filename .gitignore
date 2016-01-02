@@ -1,0 +1,10 @@
+/vendor
+/node_modules
+.env
+composer.phar
+Homestead.yaml
+_ide_helper.php
+_ide_helper_models.php
+.phpstorm.meta.php
+.vagrant
+/public/css/*.map
