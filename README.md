@@ -3,6 +3,7 @@
 [![Build Status](http://img.shields.io/travis/laravel-jp-reference/chapter8/master.svg?style=flat-square)](https://travis-ci.org/laravel-jp-reference/chapter8)
 [![StyleCI](https://styleci.io/repos/48643492/shield)](https://styleci.io/repos/48643492)
 [![Coverage Status](https://img.shields.io/coveralls/laravel-jp-reference/chapter8/master.svg?style=flat-square)](https://coveralls.io/github/laravel-jp-reference/chapter8)
+[![Code Climate](https://img.shields.io/codeclimate/github/laravel-jp-reference/chapter8.svg?style=flat-square)](https://codeclimate.com/github/laravel-jp-reference/chapter8)
 [![Scrutinizer Code Quality](https://img.shields.io/scrutinizer/g/laravel-jp-reference/chapter8/master.svg?style=flat-square)](https://scrutinizer-ci.com/g/laravel-jp-reference/chapter8/?branch=master)
 [![SensioLabs Insight](https://img.shields.io/sensiolabs/i/cc9e553f-b833-4fb5-b2cf-89ec344a86e9.svg?style=flat-square)](https://insight.sensiolabs.com/projects/cc9e553f-b833-4fb5-b2cf-89ec344a86e9)
 
